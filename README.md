@@ -24,11 +24,3 @@ go get golang.org/x/sys/windows
 
 # 2nd : Elevated Normal Process + Not Enabled All Tokens
 ![image](https://github.com/EvilBytecode/Enable-All-Tokens/assets/151552809/d7378f48-226a-4b2b-885b-7d0a61e3f8b5)
-
----
-
-# 3rd : Not Elevated  + Enable All Tokens
-![image](https://github.com/EvilBytecode/Enable-All-Tokens/assets/151552809/d27506bd-e916-47a9-99b4-3c218c04435b)
-
-# 4th: Not Elevated Normal Process + Not Enabled All Tokens
-![image](https://github.com/EvilBytecode/Enable-All-Tokens/assets/151552809/98c48c4b-ab8f-422f-b17e-be74e53a70b5)
