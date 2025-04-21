@@ -24,3 +24,7 @@ go get golang.org/x/sys/windows
 
 # 2nd : Elevated Normal Process + Not Enabled All Tokens
 ![image](https://github.com/EvilBytecode/Enable-All-Tokens/assets/151552809/d7378f48-226a-4b2b-885b-7d0a61e3f8b5)
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
